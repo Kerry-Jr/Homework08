@@ -26,7 +26,7 @@
 7.)[My Email. Please click me to send a message](mailto:kerrysfs@gmail.com)
 
 
-![Screen of working App](./assets/image/app.PNG)
+![Screen of working App](./Assets/image/app.PNG)
 
 [Github repo link](https://github.com/Kerry-Jr "Your github repo")
   
