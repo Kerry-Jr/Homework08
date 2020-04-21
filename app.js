@@ -102,8 +102,7 @@ function getInfo () {
         }
     }
     )
-    }, 
-     
-     
+    }
+ 
     )}
 const roster = []
